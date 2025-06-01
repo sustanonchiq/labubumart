@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "react": ["./node_modules/@types/react"]
+    },
+    "verbatimModuleSyntax": false
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
